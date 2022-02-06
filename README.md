@@ -1,2 +1,6 @@
 # mobile-kernel
-Android/iOS 移动端内核。
+
+思源笔记内核库文件。
+
+* Android
+* iOS
