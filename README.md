@@ -1,2 +1,2 @@
-* [Android](https://github.com/siyuan-note/siyuan-android)
-* [iOS](https://github.com/siyuan-note/siyuan-ios)
+* [SiYuan Android](https://github.com/siyuan-note/siyuan-android)
+* [SiYuan iOS](https://github.com/siyuan-note/siyuan-ios)
