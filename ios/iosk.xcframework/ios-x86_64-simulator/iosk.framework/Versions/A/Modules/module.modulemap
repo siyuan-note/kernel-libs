@@ -1,0 +1,8 @@
+framework module "Iosk" {
+	header "ref.h"
+    header "Mobile.objc.h"
+    header "Universe.objc.h"
+    header "Iosk.h"
+
+    export *
+}
